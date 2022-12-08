@@ -27,11 +27,11 @@
 
 
 
-📑[![EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
+📑[EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
 
-💻[![LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
+💻[LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
 
-👨‍💻[![PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
+👨‍💻[PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
 
 
 
@@ -51,9 +51,9 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)]()
 </br>
 
 
