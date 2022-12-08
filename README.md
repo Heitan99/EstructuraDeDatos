@@ -5,7 +5,7 @@
 
 ## **<div align="center">ESTRUCTURA DE DATOS II</div>**  
   
-![image](https://user-images.githubusercontent.com/72214307/206482496-a7f859c1-95c3-493e-8005-1a24d7f1e4ef.png) 
+![image](https://user-images.githubusercontent.com/72214307/206482496-a7f859c1-95c3-493e-8005-1a24d7f1e4ef.png) //HITO2
 
 
 [LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/Hito2/Laboratorio)
@@ -13,7 +13,7 @@
 [PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/Hito2/Practica%20Procesual)  
   
 
-![image](https://user-images.githubusercontent.com/72214307/206482609-b5783ec2-54aa-4e24-8446-bc818b501b86.png) 
+![image](https://user-images.githubusercontent.com/72214307/206482609-b5783ec2-54aa-4e24-8446-bc818b501b86.png) //HIT3
 
 
 [EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/EXAMEN)
@@ -23,23 +23,31 @@
 [PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/PRACTICA%20PROCESUAL)  
   
 
-![image](https://user-images.githubusercontent.com/72214307/206483690-1eedb271-48fa-46a6-a27a-7aefc87d9f3b.png) //HITO 3
+![image](https://user-images.githubusercontent.com/72214307/206483690-1eedb271-48fa-46a6-a27a-7aefc87d9f3b.png) //HITO 4
 
 
 
 📑[EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
 
-💻[LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
+💻[LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/LABORATORIOS)]
 
-👨‍💻[PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
-
-
+👨‍💻[PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/PRACTICA%20PROCESUAL)]
 
 
 
-![image](https://user-images.githubusercontent.com/72214307/206483778-6a1ff038-ff4f-4bca-8f46-7fc85ff8fb1d.png) //HITO 4
 
-  
+
+![image](https://user-images.githubusercontent.com/72214307/206483778-6a1ff038-ff4f-4bca-8f46-7fc85ff8fb1d.png) //HITO 5
+
+  [PROYECTO FINAL]
+📑[SHITPOST GAME CODIGO](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%205/PROYECTO_FINAL/Shitpost-Game-Memory-main/Shitpost-Game-Memory-main)]
+
+📑[INFORME ](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
+
+💻[POWER POINT](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
+
+:yt: [VIDEO PROYECTO FINAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
+
 
   
   
@@ -61,7 +69,6 @@
 
 
 
-### Backend  
 
 
 </td><td valign="top" width="33%">
