@@ -1,35 +1,36 @@
 <div align="center">
 <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47pf09vr47uuckt8uenvtrgrg7n268z18jhd3m3wzb&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
-  
-<div align="center">
-<img src="https://user-images.githubusercontent.com/72214307/206498624-a8532f06-e758-46dd-bb6e-7494e01253c3.png" align="center" style="width: 41%" />
-</div>
+
+ 
+                                                            ESTRUCTURA DE DATOS 
+ 
 
 ![image](https://user-images.githubusercontent.com/72214307/206505695-fcbb41b0-5475-49ea-9a25-9cc4f7373894.png)
 
-💻[LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/Hito2/Laboratorio)
+[![LABORATORIOS](https://img.shields.io/badge/LABORATORIOS-000?style=for-the-badge&=-fi&logoColor=white)](https://github.com/Heitan99/EstructuraDeDatos/tree/main/Hito2/Laboratorio)
 
-👨‍💻[PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/Hito2/Practica%20Procesual)  
+[![PRACTICA PROCESUAL](https://img.shields.io/badge/PRACTICA_PROCESUAL-000?style=for-the-badge&=-fi&logoColor=white)](https://github.com/Heitan99/EstructuraDeDatos/tree/main/Hito2/Practica%20Procesual)  
   
 
 ![image](https://user-images.githubusercontent.com/72214307/206505902-3c9dd1ff-336d-4e6b-9e6d-58abc7fbce3d.png)
 
 
-📑[EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/EXAMEN)
+[![EXAMEN](https://img.shields.io/badge/INFORME-000?style=for-the-badge&=-fi&logoColor=white)](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/EXAMEN)
 
-💻[LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/LABORATORIOS)
+[![LABORATORIOS](https://img.shields.io/badge/LABORATORIOS-000?style=for-the-badge&=-fi&logoColor=white)](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/LABORATORIOS)
 
-👨‍💻[PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/PRACTICA%20PROCESUAL)  
+[![PRACTICA PROCESUAL](https://img.shields.io/badge/PRACTICA_PROCESUAL-000?style=for-the-badge&=-fi&logoColor=white)](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/PRACTICA%20PROCESUAL)  
  
 
 ![image](https://user-images.githubusercontent.com/72214307/206506056-19218a60-ee57-4d5c-8ef4-d61ea5025573.png)
 
-📑[EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)
 
-💻[LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/LABORATORIOS)
+[![EXAMEN](https://img.shields.io/badge/EXAMEN-000?style=for-the-badge&=-fi&logoColor=white)](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)
 
-👨‍💻[PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/PRACTICA%20PROCESUAL)
+[![LABORATORIOS](https://img.shields.io/badge/LABORATORIOS-000?style=for-the-badge&=-fi&logoColor=white)](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/LABORATORIOS)
+
+[![PRACTICA PROCESUAL](https://img.shields.io/badge/PRACTICA_PROCESUAL-000?style=for-the-badge&=-fi&logoColor=white)](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/PRACTICA%20PROCESUAL)
 
 
 
@@ -37,13 +38,13 @@
 
 ## PROYECTO FINAL
 
-👨‍💻[SHITPOST GAME CODIGO](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%205/PROYECTO_FINAL/Shitpost-Game-Memory-main/Shitpost-Game-Memory-main)
+[![SHIT POSTING GAME](https://img.shields.io/badge/SHIT_POSTING_GAME-000?style=for-the-badge&=-fi&logoColor=white)](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%205/PROYECTO_FINAL/Shitpost-Game-Memory-main/Shitpost-Game-Memory-main)
 
-📑[INFORME ](https://github.com/Heitan99/EstructuraDeDatos/blob/main/HITO%205/PROYECTO_FINAL/INFORME%20ESTRUCTURA%20DE%20DATOS.pdf)
+[![INFORME](https://img.shields.io/badge/INFORME-000?style=for-the-badge&=-fi&logoColor=white)](https://github.com/Heitan99/EstructuraDeDatos/blob/main/HITO%205/PROYECTO_FINAL/INFORME%20ESTRUCTURA%20DE%20DATOS.pdf)
 
-💻[POWER POINT](https://github.com/Heitan99/EstructuraDeDatos/blob/main/HITO%205/PROYECTO_FINAL/Estructura%20de%20datos.pptx)
+[![POWER POINT](https://img.shields.io/badge/POWER_POINT-000?style=for-the-badge&=-fi&logoColor=white)](https://github.com/Heitan99/EstructuraDeDatos/blob/main/HITO%205/PROYECTO_FINAL/Estructura%20de%20datos.pptx)
 
-💻[VIDEO PROYECTO FINAL](https://github.com/Heitan99/EstructuraDeDatos/blob/main/HITO%205/PROYECTO_FINAL/Video%20Estructura%20De%20Datos.txt)
+[![VIDEO PROYECTO FINAL](https://img.shields.io/badge/VIDEO_PROYECTO_FINAL-000?style=for-the-badge&=-fi&logoColor=white)](https://github.com/Heitan99/EstructuraDeDatos/blob/main/HITO%205/PROYECTO_FINAL/Video%20Estructura%20De%20Datos.txt)
 
 
   
