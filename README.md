@@ -29,7 +29,7 @@
 
 💻[LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/LABORATORIOS)]
 
-👨‍💻[PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/PRACTICA%20PROCESUAL)]
+👨‍💻[PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/PRACTICA%20PROCESUAL)
 
 
 
@@ -37,13 +37,13 @@
 
 ## PROYECTO FINAL
 
-👨‍💻[SHITPOST GAME CODIGO](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%205/PROYECTO_FINAL/Shitpost-Game-Memory-main/Shitpost-Game-Memory-main)]
+👨‍💻[SHITPOST GAME CODIGO](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%205/PROYECTO_FINAL/Shitpost-Game-Memory-main/Shitpost-Game-Memory-main)
 
-📑[INFORME ](https://github.com/Heitan99/EstructuraDeDatos/blob/main/HITO%205/PROYECTO_FINAL/INFORME%20ESTRUCTURA%20DE%20DATOS.pdf)]
+📑[INFORME ](https://github.com/Heitan99/EstructuraDeDatos/blob/main/HITO%205/PROYECTO_FINAL/INFORME%20ESTRUCTURA%20DE%20DATOS.pdf)
 
-💻[POWER POINT](https://github.com/Heitan99/EstructuraDeDatos/blob/main/HITO%205/PROYECTO_FINAL/Estructura%20de%20datos.pptx)]
+💻[POWER POINT](https://github.com/Heitan99/EstructuraDeDatos/blob/main/HITO%205/PROYECTO_FINAL/Estructura%20de%20datos.pptx)
 
-💻[VIDEO PROYECTO FINAL]([https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN](https://youtu.be/QXyVN8uVU1E))]
+💻[VIDEO PROYECTO FINAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN(https://youtu.be/QXyVN8uVU1E))
 
 
   
