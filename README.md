@@ -27,7 +27,7 @@
 
 
 
-[![EXAMEN](![image](https://user-images.githubusercontent.com/72214307/206486895-28a8a0c3-8177-43b7-82e3-626352651857.png))](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)
+📑[![EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMENColor=101010)]()
 
 
 
@@ -43,9 +43,14 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
+## Tecnologías:
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+</br>
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
 
 
 </td><td valign="top" width="33%">
@@ -53,10 +58,7 @@
 
 
 ### Backend  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-</div>
+
 
 </td><td valign="top" width="33%">
 
