@@ -2,20 +2,18 @@
 <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47pf09vr47uuckt8uenvtrgrg7n268z18jhd3m3wzb&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
   
-##<div align="center">
-<img src="https://user-images.githubusercontent.com/72214307/206498624-a8532f06-e758-46dd-bb6e-7494e01253c3.png" align="center" style="width: 50%" />
-</div>**
+<div align="center">
+<img src="https://user-images.githubusercontent.com/72214307/206498624-a8532f06-e758-46dd-bb6e-7494e01253c3.png" align="center" style="width: 41%" />
+</div>
 
-
-![image](https://user-images.githubusercontent.com/72214307/206482496-a7f859c1-95c3-493e-8005-1a24d7f1e4ef.png) 
-
+![image](https://user-images.githubusercontent.com/72214307/206505695-fcbb41b0-5475-49ea-9a25-9cc4f7373894.png)
 
 💻[LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/Hito2/Laboratorio)
 
 👨‍💻[PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/Hito2/Practica%20Procesual)  
   
 
-![image](https://user-images.githubusercontent.com/72214307/206482609-b5783ec2-54aa-4e24-8446-bc818b501b86.png) 
+![image](https://user-images.githubusercontent.com/72214307/206505902-3c9dd1ff-336d-4e6b-9e6d-58abc7fbce3d.png)
 
 
 📑[EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/EXAMEN)
@@ -25,7 +23,7 @@
 👨‍💻[PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/PRACTICA%20PROCESUAL)  
  
 
-![image](https://user-images.githubusercontent.com/72214307/206483690-1eedb271-48fa-46a6-a27a-7aefc87d9f3b.png) 
+![image](https://user-images.githubusercontent.com/72214307/206506056-19218a60-ee57-4d5c-8ef4-d61ea5025573.png)
 
 📑[EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)
 
@@ -35,7 +33,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/72214307/206483778-6a1ff038-ff4f-4bca-8f46-7fc85ff8fb1d.png) 
+![image](https://user-images.githubusercontent.com/72214307/206506186-0bf8c183-610a-41d5-bf00-7b0f1292bdb8.png)
 
 ## PROYECTO FINAL
 
