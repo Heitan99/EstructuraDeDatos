@@ -5,7 +5,8 @@
 
 ## **<div align="center">ESTRUCTURA DE DATOS II</div>**  
   
-
+<img src="![image](https://user-images.githubusercontent.com/72214307/206482372-352f3d6c-c56f-4fbc-b82c-b80e07613b97.png)" align="center" 
+     
 - ### HITO 2
 
 [LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/Hito2/Laboratorio)
