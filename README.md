@@ -27,7 +27,7 @@
 
 
 
-[![EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMENColor=101010)]()
+[![EXAMEN](![image](https://user-images.githubusercontent.com/72214307/206486895-28a8a0c3-8177-43b7-82e3-626352651857.png))](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)
 
 
 
