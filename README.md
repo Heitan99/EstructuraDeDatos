@@ -3,7 +3,7 @@
 </div>  
   
 
-## **<div align="center">ESTRUCTURA DE DATOS II</div>**  
+![image](https://user-images.githubusercontent.com/72214307/206497968-7bf89977-1a9c-4eb2-9bc5-ec8fb31c6809.png align="center")
   
 ![image](https://user-images.githubusercontent.com/72214307/206482496-a7f859c1-95c3-493e-8005-1a24d7f1e4ef.png) 
 
@@ -25,9 +25,9 @@
 
 ![image](https://user-images.githubusercontent.com/72214307/206483690-1eedb271-48fa-46a6-a27a-7aefc87d9f3b.png) 
 
-📑[EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
+📑[EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)
 
-💻[LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/LABORATORIOS)]
+💻[LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/LABORATORIOS)
 
 👨‍💻[PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/PRACTICA%20PROCESUAL)
 
