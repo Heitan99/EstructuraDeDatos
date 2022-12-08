@@ -8,24 +8,22 @@
 ![image](https://user-images.githubusercontent.com/72214307/206482496-a7f859c1-95c3-493e-8005-1a24d7f1e4ef.png) //HITO2
 
 
-[LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/Hito2/Laboratorio)
+💻[LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/Hito2/Laboratorio)
 
-[PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/Hito2/Practica%20Procesual)  
+👨‍💻[PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/Hito2/Practica%20Procesual)  
   
 
 ![image](https://user-images.githubusercontent.com/72214307/206482609-b5783ec2-54aa-4e24-8446-bc818b501b86.png) //HIT3
 
 
-[EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/EXAMEN)
+📑[EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/EXAMEN)
 
-[LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/LABORATORIOS)
+💻[LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/LABORATORIOS)
 
-[PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/PRACTICA%20PROCESUAL)  
-  
+👨‍💻[PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%203/PRACTICA%20PROCESUAL)  
+ 
 
 ![image](https://user-images.githubusercontent.com/72214307/206483690-1eedb271-48fa-46a6-a27a-7aefc87d9f3b.png) //HITO 4
-
-
 
 📑[EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
 
@@ -35,18 +33,17 @@
 
 
 
-
-
 ![image](https://user-images.githubusercontent.com/72214307/206483778-6a1ff038-ff4f-4bca-8f46-7fc85ff8fb1d.png) //HITO 5
 
-  [PROYECTO FINAL]
-📑[SHITPOST GAME CODIGO](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%205/PROYECTO_FINAL/Shitpost-Game-Memory-main/Shitpost-Game-Memory-main)]
+## PROYECTO FINAL
 
-📑[INFORME ](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
+👨‍💻[SHITPOST GAME CODIGO](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%205/PROYECTO_FINAL/Shitpost-Game-Memory-main/Shitpost-Game-Memory-main)]
 
-💻[POWER POINT](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
+📑[INFORME ](https://github.com/Heitan99/EstructuraDeDatos/blob/main/HITO%205/PROYECTO_FINAL/INFORME%20ESTRUCTURA%20DE%20DATOS.pdf)]
 
-:yt: [VIDEO PROYECTO FINAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
+💻[POWER POINT](https://github.com/Heitan99/EstructuraDeDatos/blob/main/HITO%205/PROYECTO_FINAL/Estructura%20de%20datos.pptx)]
+
+💻[VIDEO PROYECTO FINAL]([https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN](https://youtu.be/QXyVN8uVU1E))]
 
 
   
@@ -56,6 +53,7 @@
 
 
 ## Tecnologías:
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
