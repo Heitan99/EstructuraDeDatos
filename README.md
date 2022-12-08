@@ -27,7 +27,11 @@
 
 
 
-📑[![EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMENColor=101010)]()
+📑[![EXAMEN](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
+
+💻[![LABORATORIOS](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
+
+👨‍💻[![PRACTICA PROCESUAL](https://github.com/Heitan99/EstructuraDeDatos/tree/main/HITO%204/EXAMEN)]
 
 
 
